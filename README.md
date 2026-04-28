@@ -12,7 +12,6 @@ aligned with CLIP image embeddings.
 | Top-5 | 21.00% | 7.50% | 2.5% |
 | Top-10 | 32.00% | 13.75% | 5.0% |
 
-![Retrieval Results](figures/retrieval_results.png)
 
 ## Architecture
 
